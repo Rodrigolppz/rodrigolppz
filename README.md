@@ -6,6 +6,10 @@
 
 ![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical)
 
+<div align="right">
+    <img src="https://github.com/Rodrigolppz/rodrigolppz/assets/157632873/afb6cb10-8c6b-4a0d-a538-51bcbcef7d02" alt="Gatos no computador">
+</div>
+
 #### Currently learning
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
