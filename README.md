@@ -8,9 +8,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" height="70">
 </a>
 
-![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical)                       
+![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical)   
 
-![pythonlogo](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 
 #### Currently learning
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
