@@ -1,6 +1,6 @@
 ### Rodrigo Ascenção.📚
 
-### Hi there, you can see my social media below, hope u enjoy  =).
+### Hi there, you can see my social media below, feel free to contact me =).
 
 <br>
 
