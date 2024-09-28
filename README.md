@@ -1,6 +1,6 @@
 ### Rodrigo Ascenção.📚
 
-### it's me! hi.
+### Hi there, you can see my social media below, hope u enjoy my profile =).
 
 
 <a href="https://www.instagram.com/rodrigolpp/">
