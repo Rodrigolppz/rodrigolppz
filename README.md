@@ -14,7 +14,7 @@
 
 
 
-![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical) 
+![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical)    <img src="https://github.com/Rodrigolppz/rodrigolppz/assets/157632873/afb6cb10-8c6b-4a0d-a538-51bcbcef7d02" alt="Gatos no computador" width="150" height="150">
 
 <b>Here's my current experience... </b>
 
@@ -23,9 +23,3 @@
 [**Compass.UOL**](https://compass.uol/en/home/) • intern \
 `DevSecOps - AWS - Linux - Containers / Dockers`   
 
-
-
-
-<div align="right">
-    <img src="https://github.com/Rodrigolppz/rodrigolppz/assets/157632873/afb6cb10-8c6b-4a0d-a538-51bcbcef7d02" alt="Gatos no computador" width="150" height="150">
-</div>
