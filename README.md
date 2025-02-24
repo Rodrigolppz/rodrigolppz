@@ -1,4 +1,4 @@
-### Rodrigo Ascenção. 📚
+### Rodrigo Ascenção 📚
 
 ### Hi there, you can see my social media below, feel free to contact me =).
 
