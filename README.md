@@ -14,6 +14,7 @@
 
 
 
+
 ![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical)    <img src="https://github.com/Rodrigolppz/rodrigolppz/assets/157632873/afb6cb10-8c6b-4a0d-a538-51bcbcef7d02" alt="Gatos no computador" width="150" height="150">
 
 <b>Here's my previous experience... </b>
@@ -22,6 +23,15 @@
 **AWS DevSecOps // intern** • 2024 - 02/2025 \
 [**Compass.UOL**](https://compass.uol/en/home/) • intern \
 `DevSecOps - AWS - Linux - Dockers - Kubernetes - IaC`   
+
+#
+
+<b> My chess.com profile, invite me to play =) </b>
+
+<a href="https://www.chess.com/member/rodrigolpp">
+    <img src="https://github.com/Rodrigolppz/rodrigolppz/blob/main/chess-removebg-preview.png" width="50" height="50">
+</a>
+
 
 #
 
