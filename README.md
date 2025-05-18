@@ -1,4 +1,4 @@
-### Rodrigo Ascenção. 📚
+### Rodrigo Ascenção 📚
 
 ### Hi there, you can see my social media below, feel free to contact me =).
 
@@ -14,7 +14,7 @@
 ![Rodrigolppz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigolppz&show_icons=true&theme=radical)    <img src="https://github.com/Rodrigolppz/rodrigolppz/assets/157632873/afb6cb10-8c6b-4a0d-a538-51bcbcef7d02" alt="Gatos no computador" width="150" height="150">
 
 
-<b> My chess.com profile, invite me to play =) </b>
+<b> My chess profile, invite me to play =) </b>
 
 <a href="https://www.chess.com/member/rodrigolpp">
     <img src="https://github.com/Rodrigolppz/rodrigolppz/blob/main/chess-removebg-preview.png" width="50" height="50">
